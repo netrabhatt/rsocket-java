@@ -38,7 +38,7 @@ import org.reactivestreams.Subscriber;
 import org.reactivestreams.Subscription;
 import reactor.core.publisher.Mono;
 
-public class RSocketSupplierTest {
+public class LoadbalanceTargetTest {
 
   @Test
   public void testError() throws InterruptedException {
